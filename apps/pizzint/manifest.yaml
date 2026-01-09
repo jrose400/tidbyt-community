@@ -1,0 +1,15 @@
+id: pizzint
+name: Pentagon Pizza Index
+summary: Real-time DEFCON level monitor from pizzint.watch
+desc: |
+  Monitor the Pentagon Pizza Index (PizzINT) DEFCON level in real-time.
+  Displays the current military tension indicator with retro-style design
+  that changes color based on the alert level.
+author: pizzint-tidbyt
+fileName: pizzint.star
+packageName: pizzint
+projectName: pizzint
+homepage: https://www.pizzint.watch
+source: https://github.com/jrose400/pizzint-tidbyt
+schedule: "*/15 * * * *"  # Update every 15 minutes
+timeout: 10s
