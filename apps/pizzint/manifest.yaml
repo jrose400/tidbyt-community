@@ -1,6 +1,6 @@
 id: pizzint
 name: Pentagon Pizza
-summary: Pentagon Pizza Index Monitor
+summary: Pentagon Pizza Monitor
 desc: Monitor the Pentagon Pizza Index (PizzINT) DEFCON level in real-time with retro-style design that changes color based on the alert level.
 author: pizzint-tidbyt
 fileName: pizzint.star
